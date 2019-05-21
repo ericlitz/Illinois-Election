@@ -1,0 +1,63 @@
+﻿Precinct,Candidate_R,Percentage_R,Raw_Vote_R,Candidate_D,Percentage_D,Raw_Vote_D,Total,Voter_Turnout
+Total,Hultgren,48.70%,15615,Underwood,51.30%,16451,32066,59.28%
+Little Rock 1,Hultgren,46.49%,179,Underwood,53.51%,206,385,61.06%
+Little Rock 2,Hultgren,39.72%,85,Underwood,60.28%,129,214,38.19%
+Little Rock 3,Hultgren,57.37%,214,Underwood,42.63%,159,373,60.35%
+Little Rock 4,Hultgren,34.58%,111,Underwood,65.42%,210,321,47.68%
+Little Rock 5,Hultgren,46.35%,127,Underwood,53.65%,147,274,43.89%
+Little Rock 6,Hultgren,47.44%,148,Underwood,52.56%,164,312,49.69%
+Little Rock 7,Hultgren,59.10%,211,Underwood,40.90%,146,357,59.97%
+Little Rock 8,Hultgren,58.22%,216,Underwood,41.78%,155,371,58.64%
+Little Rock 9,Hultgren,36.60%,157,Underwood,63.40%,272,429,48.06%
+Little Rock 10,Hultgren,30.90%,186,Underwood,69.10%,416,602,50.12%
+Little Rock 11,Hultgren,33.92%,134,Underwood,66.08%,261,395,49.20%
+Bristol 1,Hultgren,53.64%,280,Underwood,46.36%,242,522,60.92%
+Bristol 2,Hultgren,51.45%,142,Underwood,48.55%,134,276,57.06%
+Bristol 3,Hultgren,56.47%,323,Underwood,43.53%,249,572,62.61%
+Bristol 4,Hultgren,45.06%,210,Underwood,54.94%,256,466,54.19%
+Bristol 5,Hultgren,43.61%,379,Underwood,56.39%,490,869,60.32%
+Bristol 6,Hultgren,43.22%,223,Underwood,56.78%,293,516,57.55%
+Bristol 7,Hultgren,35.75%,222,Underwood,64.25%,399,621,53.87%
+Bristol 8,Hultgren,53.87%,181,Underwood,46.13%,155,336,59.06%
+Bristol 9,Hultgren,54.22%,360,Underwood,45.78%,304,664,64.12%
+Bristol 10,Hultgren,51.28%,321,Underwood,48.72%,305,626,58.05%
+Bristol 13,Hultgren,44.79%,434,Underwood,55.21%,535,969,60.85%
+Bristol 15,Hultgren,38.56%,283,Underwood,61.44%,451,734,54.95%
+Bristol 16,Hultgren,30.85%,199,Underwood,69.15%,446,645,51.42%
+Bristol 17,Hultgren,55.01%,324,Underwood,44.99%,265,589,64.35%
+Bristol 18,Hultgren,48.82%,206,Underwood,51.18%,216,422,65.24%
+Oswego 2,Hultgren,46.53%,470,Underwood,53.47%,540,1010,61.04%
+Oswego 3,Hultgren,43.05%,96,Underwood,56.95%,127,223,55.69%
+Oswego 10,Hultgren,58.81%,247,Underwood,41.19%,173,420,68.83%
+Oswego 11,Hultgren,52.15%,255,Underwood,47.85%,234,489,58.46%
+Oswego 13,Hultgren,44.70%,215,Underwood,55.30%,266,481,56.14%
+Oswego 16,Hultgren,50.27%,185,Underwood,49.73%,183,368,62.93%
+Oswego 17,Hultgren,51.23%,187,Underwood,48.77%,178,365,66.79%
+Oswego 20,Hultgren,37.88%,150,Underwood,62.12%,246,396,62.15%
+Oswego 21,Hultgren,44.87%,306,Underwood,55.13%,376,682,66.99%
+Oswego 22,Hultgren,44.92%,265,Underwood,55.08%,325,590,64.24%
+Oswego 24,Hultgren,42.51%,244,Underwood,57.49%,330,574,60.58%
+Oswego 25,Hultgren,67.72%,407,Underwood,32.28%,194,601,60.57%
+Oswego 26,Hultgren,50.34%,365,Underwood,49.66%,360,725,64.98%
+Oswego 27,Hultgren,59.89%,209,Underwood,40.11%,140,349,59.86%
+Oswego 28,Hultgren,32.81%,207,Underwood,67.19%,424,631,59.40%
+Oswego 31,Hultgren,45.54%,327,Underwood,54.46%,391,718,62.90%
+Oswego 32,Hultgren,48.10%,202,Underwood,51.90%,218,420,65.48%
+Oswego 33,Hultgren,35.50%,278,Underwood,64.50%,505,783,67.82%
+Oswego 35,Hultgren,52.52%,354,Underwood,47.48%,320,674,65.36%
+Oswego 36,Hultgren,42.67%,384,Underwood,57.33%,516,900,61.08%
+Fox 1,Hultgren,68.91%,235,Underwood,31.09%,106,341,62.08%
+Fox 2,Hultgren,68.84%,296,Underwood,31.16%,134,430,66.82%
+Kendall 1,Hultgren,48.45%,187,Underwood,51.55%,199,386,53.77%
+Kendall 2,Hultgren,54.00%,243,Underwood,46.00%,207,450,53.91%
+Kendall 3,Hultgren,56.85%,394,Underwood,43.15%,299,693,59.39%
+Kendall 4,Hultgren,59.03%,389,Underwood,40.97%,270,659,60.80%
+Kendall 5,Hultgren,54.79%,320,Underwood,45.21%,264,584,66.07%
+Kendall 6,Hultgren,61.61%,382,Underwood,38.39%,238,620,65.49%
+Na Au Say 1,Hultgren,60.63%,388,Underwood,39.38%,252,640,65.83%
+Big Grove 1,Hultgren,64.96%,291,Underwood,35.04%,157,448,59.20%
+Big Grove 2,Hultgren,75.55%,173,Underwood,24.45%,56,229,61.56%
+Lisbon 1,Hultgren,72.49%,274,Underwood,27.51%,104,378,63.97%
+Seward 1,Hultgren,53.65%,353,Underwood,46.35%,305,658,60.92%
+Seward 2,Hultgren,39.77%,206,Underwood,60.23%,312,518,55.27%
+Seward 3,Hultgren,35.71%,276,Underwood,64.29%,497,773,58.06%
